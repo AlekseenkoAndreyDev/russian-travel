@@ -28,5 +28,6 @@
 * Grid Layout
 * Директива @media
 
+Ссылка на мой проект на Github Pages ["Путшествие по России"](https://alekseenkoandreydev.github.io/russian-travel/index.html).
 
 **2022 | Алексеенко Андрей | Яндекс.Практикум**
